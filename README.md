@@ -1,2 +1,2 @@
 # sample_website
-lil quarto website (not coded)
+quarto website (not coded)
